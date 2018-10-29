@@ -6,6 +6,18 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ## 第一章 各就各位，预备！
 
+### 准备工具
+
+编辑器（vscode）和编译器（glasgow haskell compiler GHC）
+
+最简单的方法是下载Haskell Platform，包含很多有用的库
+
+在终端中使用`ghci`来进入交互模式
+
+学习流程：
+在一个文件中定义了几个函数，通过`:l myfuctions`将函数装载进GHCi（需要保证脚本位于启动GHCi的同一目录下）
+在修改了这个脚本内容之后，可以再次通过`:l myfunctions`或等价的`:r`来重新装载脚本
+
 ### 1.1 调用函数
 
 * [笔记部分](note/chapter1/1.1/fuction.md)
