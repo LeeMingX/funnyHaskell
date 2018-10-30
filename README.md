@@ -27,6 +27,9 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ### 1.2 小朋友的第一个函数
 
+* [笔记部分](note/chapter1/1.2/first_function.md)
+* [练习部分](practice/chapter1/1.2/first_function.hs)
+
 ### 1.3 列表入门
 
 #### 1.3.1 拼接列表
