@@ -43,6 +43,10 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ### 1.4 得州区间
 
+
+* [笔记部分](note/chapter1/1.4/range.md)
+* [练习部分](practice/chapter1/1.4/range.hs)
+
 ### 1.5 我是列表推导式
 
 ### 1.6 元组
