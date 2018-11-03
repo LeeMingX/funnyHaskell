@@ -56,3 +56,27 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 1. 使用元组
 2. 使用序对
 3. 找直角三角形
+
+* [笔记部分](note/chapter1/1.6/tuple.md)
+* [练习部分](practice/chapter1/1.6/tuple.hs)
+
+## 相信类型
+
+### 2.1 显式类型声明
+
+### 2.2 Haskell的常见类型
+
+### 2.3 类型变量
+
+### 2.4 类型类入门
+
+1. Eq类型类
+2. Ord类型类
+3. Show类型类
+4. Read类型类
+5. Enum类型类
+6. Bounded类型类
+7. Num类型类
+8. Floating类型类
+9. Integeral类型类
+10. 有关类型类的最后总结
