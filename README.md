@@ -64,7 +64,13 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ### 2.1 显式类型声明
 
+* [笔记部分](note/chapter2/2.1/type_declare.md)
+* [练习部分](practice/chapter2/2.1/type_declare.hs)
+
 ### 2.2 Haskell的常见类型
+
+* [笔记部分](note/chapter2/2.2/common_type.md)
+* [练习部分](practice/chapter2/2.2/common_type.hs)
 
 ### 2.3 类型变量
 
