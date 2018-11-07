@@ -74,6 +74,9 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ### 2.3 类型变量
 
+* [笔记部分](note/chapter2/2.3/type_var.md)
+* [练习部分](practice/chapter2/2.3/type_var.hs)
+
 ### 2.4 类型类入门
 
 1. Eq类型类
@@ -86,3 +89,29 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 8. Floating类型类
 9. Integeral类型类
 10. 有关类型类的最后总结
+
+* [笔记部分](note/chapter2/2.4/type_class.md)
+* [练习部分](practice/chapter2/2.4/type_class.hs)
+
+## 函数的语法
+
+### 3.1 模式匹配
+
+1. 元组的模式匹配
+2. 列表与列表推导式的模式匹配
+3. As模式
+
+### 3.2 注意，哨位！
+
+### 3.3 where ? !
+
+1. where的作用域
+2. where中的模式匹配
+3. where块中的函数
+
+### 3.4 let
+
+1. 列表推导式中的let
+2. GHCi中的let
+
+### 3.5 case表达式
