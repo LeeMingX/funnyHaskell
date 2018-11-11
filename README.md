@@ -123,4 +123,8 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 1. 列表推导式中的let
 2. GHCi中的let
 
+* [笔记部分](note/chapter3/3.4/let.md)
+* [练习部分](practice/chapter3/3.4/let.hs)
+
+
 ### 3.5 case表达式
