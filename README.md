@@ -135,6 +135,9 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 ### 4.1 不可思议的最大值
 
+* [笔记部分](note/chapter4/4.1/awesome.md)
+* [练习部分](practice/chapter4/4.1/awesome.hs)
+
 ### 4.2 更多的几个递归函数
 
 1. replicate
