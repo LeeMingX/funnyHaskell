@@ -147,6 +147,9 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 5. zip
 6. elem
 
+* [笔记部分](note/chapter4/4.2/more-func.md)
+* [练习部分](practice/chapter4/4.2/more-func.hs)
+
 ### 4.3 快点，排序！
 
 1. 算法思路
