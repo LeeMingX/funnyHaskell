@@ -155,4 +155,7 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 1. 算法思路
 2. 编写代码
 
+* [笔记部分](note/chapter4/4.3/sort.md)
+* [练习部分](practice/chapter4/4.3/sort.hs)
+
 ### 4.4 递归地思考
