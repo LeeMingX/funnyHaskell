@@ -162,3 +162,47 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 
 * [笔记部分](note/chapter4/4.4/think.md)
 * [练习部分](practice/chapter4/4.4/think.hs)
+
+## 高阶函数
+
+### 5.1 柯里函数
+
+1. 截断
+2. 打印函数
+
+* [笔记部分](note/chapter5/5.1/curry.md)
+* [练习部分](practice/chapter5/5.1/curry.hs)
+
+### 5.2 再来点儿高阶函数
+
+1. 实现`zipWith`
+2. 实现`flip`
+
+* [笔记部分](note/chapter5/5.2/profunc.md)
+* [练习部分](practice/chapter5/5.2/profunc.hs)
+
+### 5.3 函数式程序员工具箱
+
+1. `map`函数
+2. `filter`函数
+3. 有关`map`与`filter`的更多示例
+4. 映射带有多个参数的函数
+
+### 5.4 **lambda**
+
+### 5.5 折叠纸鹤
+
+1. 通过`foldl`进行左折叠
+2. 通过`foldr`进行右折叠
+3. `foldll`函数与`foldrl`函数
+4. 折叠的几个例子
+5. 另一个角度看折叠
+6. 无限列表的折叠
+7. 扫描
+
+### 5.6 有`$`的函数应用
+
+### 5.7 函数组合
+
+1. 带有多个参数函数的组合
+2. `Point-Free`风格
