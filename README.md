@@ -188,6 +188,9 @@ Haskell趣学指南是一本非常有趣的书，虽然现在非常忙，但我�
 3. 有关`map`与`filter`的更多示例
 4. 映射带有多个参数的函数
 
+* [笔记部分](note/chapter5/5.3/funcutil.md)
+* [练习部分](practice/chapter5/5.3/funcutil.hs)
+
 ### 5.4 **lambda**
 
 ### 5.5 折叠纸鹤
